@@ -5,6 +5,6 @@
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
-    "tag": "beta"
+    "tag": "pre-release"
   }
 }
