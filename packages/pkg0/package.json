@@ -1,5 +1,5 @@
 {
-  "name": "@albrow/pkg0",
+  "name": "albrow-pkg0",
   "version": "0.0.1",
   "description": "Test package 0",
   "main": "index.js",
