@@ -1,0 +1,10 @@
+{
+  "name": "@albrow/pkg1",
+  "version": "1.0.0",
+  "description": "Test package 1",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "tag": "beta"
+  }
+}

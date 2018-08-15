@@ -1,0 +1,7 @@
+{
+  "name": "@albrow/pkg0",
+  "version": "1.0.0",
+  "description": "Test package 0",
+  "main": "index.js",
+  "license": "MIT"
+}
