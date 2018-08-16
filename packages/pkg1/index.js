@@ -1,1 +1,1 @@
-console.log("what totally different message for test package #1");
+console.log("this one is more like the original message for test package #1");
