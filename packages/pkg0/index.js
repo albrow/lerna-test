@@ -1,1 +1,1 @@
-console.log("this is a new message for test package #0");
+console.log("totally new message for test package #0 this is");
